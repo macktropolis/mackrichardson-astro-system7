@@ -1,0 +1,23 @@
+---
+// data imports
+import * as site from "../data/site.json";
+
+const { siteName, description, author } = site;
+---
+
+<section id="hero">
+	<img src="/assets/images/mack.png" alt="Mack Richardson" />
+	<h2>{siteName}</h2>
+	<p>{description}</p>
+	<small
+		>&copy<script type="text/javascript" is:inline>
+			document.write(new Date().getFullYear());
+		</script>. {author}. All Rights Reserved.</small
+	>
+</section>
+
+<style>
+	p {
+		padding-inline: 2.5rem;
+	}
+</style>

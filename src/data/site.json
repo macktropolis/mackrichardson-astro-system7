@@ -1,0 +1,22 @@
+{
+    "siteName": "Mack Richardson",
+    "description": "a FileMaker & Web Developer, Dog Lover, Vintage Comic Book Reader, Pulp Sci-Fi-Fantasy-Horror Book Collector, and Retro Toy Hunter.",
+    "version": "10.0",
+    "domain": "mackrichardson.com",
+    "url": "https://mackrichardson.com",
+    "favicon": "/favicon",
+    "logo": "/assets/images/mack-red.png",
+    "ogImage": "/assets/images/og-image.webp",
+    "author": "Mack Richardson",
+    "phone": "+1 336.403.1746",
+    "email": "mack@mackrichardson.com",
+    "address1": "7295 Broad St",
+    "address2": "",
+    "addressCity": "Rural Hall",
+    "addressState": "NC",
+    "addressZIP": "27045",
+    "linkedin": "https://linkedin.com/in/macktropolis/",
+    "facebook": "https://facebook.com/macktropolis/",
+    "twitter": "https://x.com/macktropolis/",
+    "youtube": "https://www.youtube.com/@mackdaddyfun"
+  }
