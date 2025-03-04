@@ -13,9 +13,12 @@ const { siteName, description, author } = site;
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/assets/favicon.png" />
+		<meta name="title" content={`Mack Richardson | ${siteName}`} />
+		<meta name="description" content={description} />
+		<meta name="author" content={author} />
 		<meta name="generator" content={Astro.generator} />
 		<title>{siteName}</title>
+		<link rel="icon" type="image/svg+xml" href="/assets/favicon.png" />
 
 		<!-- Include JS Files -->
 		<script src="/assets/js/click.js" defer></script>
