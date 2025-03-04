@@ -65,6 +65,10 @@ h2::after {
 	border-right: none;
 	border-left: 2px solid;
 }
+h2 > small {
+	font-size: small;
+	font-weight: 400;
+}
 table {
 	width: 100%;
 	border-collapse: collapse;
@@ -97,6 +101,7 @@ li {
 a {
 	color: var(--blue);
 	transition: all ease-in-out 0.5s;
+	overflow-wrap: break-word;
 }
 a:hover {
 	color: var(--purple);
@@ -108,7 +113,7 @@ main {
 	margin: 20px auto;
 	padding: 20px;
 	border: 2px solid;
-	width: clamp( 500px, 1000px, calc(100% - 40px) );
+	width: clamp( 350px, 1000px, calc(100% - 40px) );
 	background: var(--pale-gray);
 	box-shadow: 1px 1px, 2px 2px, 3px 3px, 4px 4px;
 }
