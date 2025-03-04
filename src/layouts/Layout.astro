@@ -1,6 +1,11 @@
 ---
 import "../styles/reset.css";
 import "../styles/global.css";
+
+// data imports
+import * as site from "../data/site.json";
+
+const { siteName, description, author } = site;
 ---
 
 <!doctype html>
@@ -8,9 +13,9 @@ import "../styles/global.css";
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/assets/favicon.svg" />
+		<link rel="icon" type="image/svg+xml" href="/assets/favicon.png" />
 		<meta name="generator" content={Astro.generator} />
-		<title>Mack Richardson</title>
+		<title>{siteName}</title>
 
 		<!-- Include JS Files -->
 		<script src="/assets/js/click.js" defer></script>
