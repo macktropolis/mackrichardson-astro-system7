@@ -1,5 +1,10 @@
 ---
+// data imports
+import * as site from "../data/codepen.json";
 
+// component imports
+import Item from "./Item-Link.astro";
+const { codepen } = site;
 ---
 
 <section class="codepen">
@@ -11,34 +16,6 @@
         </small>
     </h2>
     <ul>
-        <li>
-            <a
-                href="https://codepen.io/macktropolis/pen/gbYdWqB/532a0ad4eb82e218a8f5fe3b3474d78f"
-                target="_blank">Comic Book Panel Grid v2</a
-            >
-        </li>
-        <li>
-            <a
-                href="https://codepen.io/macktropolis/pen/bNbgzPB"
-                target="_blank">
-                Apple Intelligence Animated Gradient Border
-            </a>
-        </li>
-        <li>
-            <a
-                href="https://codepen.io/macktropolis/pen/dyRNeLM/3b24baa0b65b3764f90605bd0025c07e"
-                target="_blank">Rotating Starburst</a
-            >
-        </li>
-        <li>
-            <a href="https://codepen.io/macktropolis/pen/AEMBOE" target="_blank"
-                >Travel by TARDIS CSS De-Materialization Effect</a
-            >
-        </li>
-        <li>
-            <a href="https://codepen.io/macktropolis/pen/vNMRpK" target="_blank"
-                >Fallout Terminal Inspired CSS Theme</a
-            >
-        </li>
+        {codepen.map((item) => <Item item={item} />)}
     </ul>
 </section>

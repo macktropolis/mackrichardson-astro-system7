@@ -1,9 +1,14 @@
 ---
+// data imports
+import * as site from "../data/watching.json";
 
+// component imports
+import Row from "./WatchListRow.astro";
+const { watching } = site;
 ---
 
 <section class="watch-list">
-    <h2>Recent Binge Watching</h2>
+    <h2>Recent Viewing</h2>
     <div class="table-wrap">
         <table>
             <tr>
@@ -11,21 +16,7 @@
                 <th>Media</th>
                 <th>Rating</th>
             </tr>
-            <tr>
-                <td>War &amp; Peace</td>
-                <td>Prime Video</td>
-                <td class="rating">***</td>
-            </tr>
-            <tr>
-                <td>Severence</td>
-                <td>Apple TV+</td>
-                <td class="rating">*****</td>
-            </tr>
-            <tr>
-                <td>Filmore!</td>
-                <td>DVD</td>
-                <td class="rating">****</td>
-            </tr>
+            {watching.map((item) => <Row item={item} />)}
         </table>
     </div>
 </section>

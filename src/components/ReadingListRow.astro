@@ -1,0 +1,9 @@
+---
+const { item } = Astro.props;
+---
+
+<tr>
+    <td><a href={item.link} target="_blank">{item.title}</a></td>
+    <td>{item.author}</td>
+    <td class="rating">{item.rating}</td>
+</tr>

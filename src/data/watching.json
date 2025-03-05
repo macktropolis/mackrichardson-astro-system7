@@ -1,0 +1,23 @@
+{
+    "watching": [
+        { 
+            "title": "War &amp; Peace",
+            "media": "Prime Video",
+            "link": "https://en.wikipedia.org/wiki/War_%26_Peace_(2016_TV_series)",
+            "rating": "***"
+        },
+        { 
+            "title": "Severance",
+            "media": "Apple TV+",
+            "link": "https://en.wikipedia.org/wiki/Severance_(TV_series)",
+            "rating": "*****"
+
+        },
+        { 
+            "title": "Filmore!",
+            "media": "DVD",
+            "link": "https://en.wikipedia.org/wiki/Fillmore!",
+            "rating": "****"
+        }
+  ]
+}
