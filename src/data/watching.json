@@ -4,20 +4,23 @@
             "title": "War &amp; Peace",
             "media": "Prime Video",
             "link": "https://en.wikipedia.org/wiki/War_%26_Peace_(2016_TV_series)",
-            "rating": "***"
+            "rating": "***",
+            "date": "Mar 2025"
         },
         { 
             "title": "Severance",
             "media": "Apple TV+",
             "link": "https://en.wikipedia.org/wiki/Severance_(TV_series)",
-            "rating": "*****"
+            "rating": "*****",
+            "date": "Feb-Mar 2025"
 
         },
         { 
             "title": "Filmore!",
             "media": "DVD",
             "link": "https://en.wikipedia.org/wiki/Fillmore!",
-            "rating": "****"
+            "rating": "****",
+            "date": "Feb-Mar 2025"
         }
   ]
 }

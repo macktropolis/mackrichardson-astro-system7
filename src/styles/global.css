@@ -78,6 +78,7 @@ td {
 	border: 2px solid var(--primary-color);
 	padding: 8px;
 	text-align: left;
+	vertical-align: middle;
 }
 tr:hover td {
 	background: var(--off-white);
@@ -148,6 +149,9 @@ main > section:hover {
     font-style: italic;
     margin-top: 0;
     margin-bottom: 10px;
+}
+:where(#reading-page, #watching-page) h2 small {
+	display: none;
 }
 .contact > div {
     font-size: 1.25em;

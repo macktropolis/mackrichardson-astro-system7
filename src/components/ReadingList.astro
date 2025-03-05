@@ -5,18 +5,27 @@ import * as site from "../data/reading.json";
 // component imports
 import Row from "./ReadingListRow.astro";
 const { reading } = site;
+const { sectionTitle, limit } = Astro.props;
+const title = sectionTitle || "Reading List";
+
+// Filter the watching array if filterCriteria is provided
+const limitedReading = limit ? reading.slice(0, limit) : reading;
 ---
 
 <section class="reading-list">
-    <h2>Recent Reading</h2>
+    <h2>
+        {title}
+        <small>(<a href="/reading/">See full list &rarr;</a>) </small>
+    </h2>
     <div class="table-wrap">
         <table>
             <tr>
                 <th>Title</th>
                 <th>Author</th>
+                <th>Date</th>
                 <th>Rating</th>
             </tr>
-            {reading.map((item) => <Row item={item} />)}
+            {limitedReading.map((item) => <Row item={item} />)}
         </table>
     </div>
 </section>

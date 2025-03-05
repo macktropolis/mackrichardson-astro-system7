@@ -3,12 +3,15 @@
 import * as site from "../data/site.json";
 
 const { siteName, description, author } = site;
+const { pageTitle, pageDesc } = Astro.props;
+const title = pageTitle || siteName;
+const desc = pageDesc || description;
 ---
 
 <section id="hero">
 	<img src="/assets/images/mack.png" alt="Mack Richardson" />
-	<h2>{siteName}</h2>
-	<p>{description}</p>
+	<h2>{title}</h2>
+	<p>{desc}</p>
 	<small
 		>&copy<script type="text/javascript" is:inline>
 			document.write(new Date().getFullYear());

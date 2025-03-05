@@ -4,7 +4,11 @@ import * as site from "../data/codepen.json";
 
 // component imports
 import Item from "./Item-Link.astro";
+const { limit } = Astro.props;
 const { codepen } = site;
+
+// Filter the watching array if filterCriteria is provided
+const limitedCodepens = limit ? codepen.slice(0, limit) : codepen;
 ---
 
 <section class="codepen">
@@ -16,6 +20,6 @@ const { codepen } = site;
         </small>
     </h2>
     <ul>
-        {codepen.map((item) => <Item item={item} />)}
+        {limitedCodepens.map((item) => <Item item={item} />)}
     </ul>
 </section>
