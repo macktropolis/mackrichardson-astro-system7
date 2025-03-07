@@ -1,26 +1,25 @@
-{
-    "watching": [
-        { 
-            "title": "War &amp; Peace",
-            "media": "Prime Video",
+{ 
+    "watching": [ 
+        {
+            "date": "Mar 2025",
             "link": "https://en.wikipedia.org/wiki/War_%26_Peace_(2016_TV_series)",
+            "media": "Prime Video",
             "rating": "***",
-            "date": "Mar 2025"
-        },
-        { 
-            "title": "Severance",
-            "media": "Apple TV+",
+            "title": "War & Peace"
+        }, 
+        {
+            "date": "Feb 2025",
             "link": "https://en.wikipedia.org/wiki/Severance_(TV_series)",
+            "media": "Apple TV+",
             "rating": "*****",
-            "date": "Feb-Mar 2025"
-
-        },
-        { 
-            "title": "Filmore!",
-            "media": "DVD",
+            "title": "Severance"
+        }, 
+        {
+            "date": "Feb 2025",
             "link": "https://en.wikipedia.org/wiki/Fillmore!",
+            "media": "DVD",
             "rating": "****",
-            "date": "Feb-Mar 2025"
-        }
-  ]
+            "title": "Filmore!"
+        } 
+    ] 
 }
