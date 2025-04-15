@@ -1,13 +1,13 @@
 {
     "reading": [
-    {"author":"Mike Mignola","date":"Feb 2025","link":"https://amazon.com/Encounters-Evil-Other-Stories-Library/dp/1506734146/?dib=eyJ2IjoiMSJ9.0APzbKItUfJ5imyksrfEOz6QbR26_BBMEQtcONvIIw8N_9r18cbZ2lmojw1SE3uL-HFGGO5fLFzUypxnMhmKaY9KNK2qNVh2UtB9moEVITPtr9BLUbmt1_yqIRFzdEvT7HoQHvY5aP5WYNf--M18VaMDfbZouZKUcWTB_rPI62sJ4JN3GsL_jpXWNoZBXT9dxedh8vSHpjR7GuXE0qyoFtlQmL5RR0v0RjS3aVprWv4.8U6Uu4L7Tf7h32pw3fU5vbgIPFHNPGzqI1rAoikfixo&dib_tag=se&sprefix=Our+Encou,aps,115","rating":"****","title":"Our Encounters with Evil & Other Stories"},
-    {"author":"James Clear","date":"Jan 2025","link":"https://a.co/d/67mEjaA","rating":"*****","title":"Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"},
-    {"author":"Seth Godin","date":"Feb 2025","link":"https://a.co/d/3bgGctf","rating":"***","title":"The Dip: A Little Book That Teaches You When to Quit (and When to Stick)"},
-    {"author":"Howard Scott Warshaw","date":"Dec 2024","link":"https://a.co/d/7Q0Rpou","rating":"****","title":"Once Upon an Atari: How I Made History by Killing an Industry"},
-    {"author":"Paul Tremblay","date":"Nov 2024","link":"https://a.co/d/f8Ooa5p","rating":"***","title":"Horror Movie"},
-    {"author":"Grady Hendrix","date":"Oct 2023","link":"https://amazon.com/dp/1594745269/?bestFormat=true&k=horrorstor&sprefix=Horrorstor,aps,115","rating":"****","title":"Horrorstör"},
     {"author":"Mike Mignola","date":"Apr 2025","link":"https://a.co/d/hKv48wR","rating":"*****","title":"Bowling with Corpses and Other Strange Tales from Lands Unknown"},
     {"author":"Yuri Slezkine","date":"Apr 2025","link":"https://a.co/d/9X5ejh9","rating":"****","title":"The House of Government: A Saga of the Russian Revolution"},
-    {"author":"Tom Lean","date":"Mar 2025","link":"https://a.co/d/0bpAWFF","rating":"****","title":"Electronic Dreams: How 1980s Britain Learned to Love the Computer"}
+    {"author":"Tom Lean","date":"Mar 2025","link":"https://a.co/d/0bpAWFF","rating":"****","title":"Electronic Dreams: How 1980s Britain Learned to Love the Computer"},
+    {"author":"Mike Mignola","date":"Feb 2025","link":"https://amazon.com/Encounters-Evil-Other-Stories-Library/dp/1506734146/?dib=eyJ2IjoiMSJ9.0APzbKItUfJ5imyksrfEOz6QbR26_BBMEQtcONvIIw8N_9r18cbZ2lmojw1SE3uL-HFGGO5fLFzUypxnMhmKaY9KNK2qNVh2UtB9moEVITPtr9BLUbmt1_yqIRFzdEvT7HoQHvY5aP5WYNf--M18VaMDfbZouZKUcWTB_rPI62sJ4JN3GsL_jpXWNoZBXT9dxedh8vSHpjR7GuXE0qyoFtlQmL5RR0v0RjS3aVprWv4.8U6Uu4L7Tf7h32pw3fU5vbgIPFHNPGzqI1rAoikfixo&dib_tag=se&sprefix=Our+Encou,aps,115","rating":"****","title":"Our Encounters with Evil & Other Stories"},
+    {"author":"Seth Godin","date":"Feb 2025","link":"https://a.co/d/3bgGctf","rating":"***","title":"The Dip: A Little Book That Teaches You When to Quit (and When to Stick)"},
+    {"author":"James Clear","date":"Jan 2025","link":"https://a.co/d/67mEjaA","rating":"*****","title":"Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"},
+    {"author":"Howard Scott Warshaw","date":"Dec 2024","link":"https://a.co/d/7Q0Rpou","rating":"****","title":"Once Upon an Atari: How I Made History by Killing an Industry"},
+    {"author":"Paul Tremblay","date":"Nov 2024","link":"https://a.co/d/f8Ooa5p","rating":"***","title":"Horror Movie"},
+    {"author":"Grady Hendrix","date":"Oct 2023","link":"https://amazon.com/dp/1594745269/?bestFormat=true&k=horrorstor&sprefix=Horrorstor,aps,115","rating":"****","title":"Horrorstör"}
     ]
-}
+    }
