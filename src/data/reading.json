@@ -1,19 +1,19 @@
 {
 "reading": [
-{"author":"Walter Isaacson","date":"Jun 2025","link":"https://a.co/d/701b0mp","rating":"****","title":"Steve Jobs"},
-{"author":"Michael Malice","date":"May 2025","link":"https://a.co/d/hUexkn6","rating":"****","title":"The White Pill: A Tale of Good & Evil"},
-{"author":"Constantine V Pleshakov","date":"May 2025","link":"https://a.co/d/i3QsxFD","rating":"*****","title":"The Tsar's Last Armada: The Epic Journey to the Battle of Tsushima"},
-{"author":"Karl Martin","date":"May 2025","link":"https://a.co/d/eEas92i","rating":"****","title":"The Cave, the Road, the Table, and the Fire: Leading from a Deeper Place"},
-{"author":"Tom Holland","date":"May 2025","link":"https://a.co/d/izSiCAq","rating":"*****","title":"Rubicon: The Last Years of the Roman Republic"},
-{"author":"Mikhail Zygar","date":"May 2025","link":"https://a.co/d/bZTwam7","rating":"*****","title":"The Empire Must Die: Russia's Revolutionary Collapse, 1900 - 1917"},
-{"author":"Mike Mignola","date":"Apr 2025","link":"https://a.co/d/hKv48wR","rating":"*****","title":"Bowling with Corpses and Other Strange Tales from Lands Unknown"},
-{"author":"Yuri Slezkine","date":"Apr 2025","link":"https://a.co/d/9X5ejh9","rating":"****","title":"The House of Government: A Saga of the Russian Revolution"},
-{"author":"Tom Lean","date":"Mar 2025","link":"https://a.co/d/0bpAWFF","rating":"****","title":"Electronic Dreams: How 1980s Britain Learned to Love the Computer"},
-{"author":"Mike Mignola","date":"Feb 2025","link":"https://amazon.com/Encounters-Evil-Other-Stories-Library/dp/1506734146/?dib=eyJ2IjoiMSJ9.0APzbKItUfJ5imyksrfEOz6QbR26_BBMEQtcONvIIw8N_9r18cbZ2lmojw1SE3uL-HFGGO5fLFzUypxnMhmKaY9KNK2qNVh2UtB9moEVITPtr9BLUbmt1_yqIRFzdEvT7HoQHvY5aP5WYNf--M18VaMDfbZouZKUcWTB_rPI62sJ4JN3GsL_jpXWNoZBXT9dxedh8vSHpjR7GuXE0qyoFtlQmL5RR0v0RjS3aVprWv4.8U6Uu4L7Tf7h32pw3fU5vbgIPFHNPGzqI1rAoikfixo&dib_tag=se&sprefix=Our+Encou,aps,115","rating":"****","title":"Our Encounters with Evil & Other Stories"},
-{"author":"Seth Godin","date":"Feb 2025","link":"https://a.co/d/3bgGctf","rating":"***","title":"The Dip: A Little Book That Teaches You When to Quit (and When to Stick)"},
-{"author":"James Clear","date":"Jan 2025","link":"https://a.co/d/67mEjaA","rating":"*****","title":"Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"},
-{"author":"Howard Scott Warshaw","date":"Dec 2024","link":"https://a.co/d/7Q0Rpou","rating":"****","title":"Once Upon an Atari: How I Made History by Killing an Industry"},
-{"author":"Paul Tremblay","date":"Nov 2024","link":"https://a.co/d/f8Ooa5p","rating":"***","title":"Horror Movie"},
-{"author":"Grady Hendrix","date":"Oct 2023","link":"https://amazon.com/dp/1594745269/?bestFormat=true&k=horrorstor&sprefix=Horrorstor,aps,115","rating":"****","title":"Horrorstör"}
+{"author":"Walter Isaacson","date":"Jun 2025","link":"https://a.co/d/701b0mp","rating":"****","status":"Completed","title":"Steve Jobs"},
+{"author":"Michael Malice","date":"May 2025","link":"https://a.co/d/hUexkn6","rating":"****","status":"Completed","title":"The White Pill: A Tale of Good & Evil"},
+{"author":"Constantine V Pleshakov","date":"May 2025","link":"https://a.co/d/i3QsxFD","rating":"*****","status":"Completed","title":"The Tsar's Last Armada: The Epic Journey to the Battle of Tsushima"},
+{"author":"Karl Martin","date":"May 2025","link":"https://a.co/d/eEas92i","rating":"****","status":"In Progress","title":"The Cave, the Road, the Table, and the Fire: Leading from a Deeper Place"},
+{"author":"Tom Holland","date":"May 2025","link":"https://a.co/d/izSiCAq","rating":"*****","status":"Completed","title":"Rubicon: The Last Years of the Roman Republic"},
+{"author":"Mikhail Zygar","date":"May 2025","link":"https://a.co/d/bZTwam7","rating":"*****","status":"Completed","title":"The Empire Must Die: Russia's Revolutionary Collapse, 1900 - 1917"},
+{"author":"Mike Mignola","date":"Apr 2025","link":"https://a.co/d/hKv48wR","rating":"*****","status":"On Deck","title":"Bowling with Corpses and Other Strange Tales from Lands Unknown"},
+{"author":"Yuri Slezkine","date":"Apr 2025","link":"https://a.co/d/9X5ejh9","rating":"****","status":"Completed","title":"The House of Government: A Saga of the Russian Revolution"},
+{"author":"Tom Lean","date":"Mar 2025","link":"https://a.co/d/0bpAWFF","rating":"****","status":"Completed","title":"Electronic Dreams: How 1980s Britain Learned to Love the Computer"},
+{"author":"Mike Mignola","date":"Feb 2025","link":"https://amazon.com/Encounters-Evil-Other-Stories-Library/dp/1506734146/?dib=eyJ2IjoiMSJ9.0APzbKItUfJ5imyksrfEOz6QbR26_BBMEQtcONvIIw8N_9r18cbZ2lmojw1SE3uL-HFGGO5fLFzUypxnMhmKaY9KNK2qNVh2UtB9moEVITPtr9BLUbmt1_yqIRFzdEvT7HoQHvY5aP5WYNf--M18VaMDfbZouZKUcWTB_rPI62sJ4JN3GsL_jpXWNoZBXT9dxedh8vSHpjR7GuXE0qyoFtlQmL5RR0v0RjS3aVprWv4.8U6Uu4L7Tf7h32pw3fU5vbgIPFHNPGzqI1rAoikfixo&dib_tag=se&sprefix=Our+Encou,aps,115","rating":"****","status":"Completed","title":"Our Encounters with Evil & Other Stories"},
+{"author":"Seth Godin","date":"Feb 2025","link":"https://a.co/d/3bgGctf","rating":"***","status":"Completed","title":"The Dip: A Little Book That Teaches You When to Quit (and When to Stick)"},
+{"author":"James Clear","date":"Jan 2025","link":"https://a.co/d/67mEjaA","rating":"*****","status":"Completed","title":"Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones"},
+{"author":"Howard Scott Warshaw","date":"Dec 2024","link":"https://a.co/d/7Q0Rpou","rating":"****","status":"Completed","title":"Once Upon an Atari: How I Made History by Killing an Industry"},
+{"author":"Paul Tremblay","date":"Nov 2024","link":"https://a.co/d/f8Ooa5p","rating":"***","status":"Completed","title":"Horror Movie"},
+{"author":"Grady Hendrix","date":"Oct 2023","link":"https://amazon.com/dp/1594745269/?bestFormat=true&k=horrorstor&sprefix=Horrorstor,aps,115","rating":"****","status":"Completed","title":"Horrorstör"}
 ]
 }

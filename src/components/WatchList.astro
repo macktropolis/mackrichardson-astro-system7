@@ -23,6 +23,7 @@ const limitedWatching = limit ? watching.slice(0, limit) : watching;
                 <th>Title</th>
                 <th>Media</th>
                 <th>Date</th>
+                <th>Status</th>
                 <th>Rating</th>
             </tr>
             {limitedWatching.map((item) => <Row item={item} />)}

@@ -1,9 +1,13 @@
 {
 "watching": [
-{"date":"May 2025","link":"https://www.amazon.com/gp/video/detail/B003L3GSPY/ref=atv_dp_share_cu_r","media":"Prime Video","rating":"****","title":"Rules of Engagement"},
-{"date":"Mar 2025","link":"https://en.wikipedia.org/wiki/Severance_(TV_series)","media":"Apple TV+","rating":"*****","title":"Severance, Season 2"},
-{"date":"Mar 2025","link":"https://en.wikipedia.org/wiki/Union_of_Salvation_(film)","media":"YouTube","rating":"****","title":"Union of Salvation"},
-{"date":"Mar 2025","link":"https://en.wikipedia.org/wiki/War_%26_Peace_(2016_TV_series)","media":"Prime Video","rating":"***","title":"War & Peace"},
-{"date":"Feb 2025","link":"https://en.wikipedia.org/wiki/Fillmore!","media":"DVD","rating":"****","title":"Filmore!"}
+{"date":"Jul 2025","link":"https://www.imdb.com/title/tt5950044/","media":"Theater","rating":"****","status":"Completed","title":"Superman"},
+{"date":"Jun 2025","link":"https://www.imdb.com/title/tt9253284/episodes/?season=2&ref_=ttep","media":"Disney+","rating":"*****","status":"In Progress","title":"Andor: Season 2"},
+{"date":"Jun 2025","link":"https://www.imdb.com/title/tt9253284/episodes/?season=1&ref_=tt_eps_sn_1","media":"Disney+","rating":"*****","status":"Completed","title":"Andor: Season 1"},
+{"date":"May 2025","link":"https://www.imdb.com/title/tt0790772/","media":"Prime Video","rating":"****","status":"Completed","title":"Rules of Engagement"},
+{"date":"Mar 2025","link":"https://www.imdb.com/title/tt11280740/episodes/?season=2&ref_=ttep","media":"Apple TV+","rating":"*****","status":"Completed","title":"Severance, Season 2"},
+{"date":"Mar 2025","link":"https://www.imdb.com/title/tt8769146/","media":"YouTube","rating":"****","status":"Completed","title":"Union of Salvation"},
+{"date":"Mar 2025","link":"https://www.imdb.com/title/tt3910804/","media":"Prime Video","rating":"***","status":"Completed","title":"War & Peace"},
+{"date":"Feb 2025","link":"https://www.imdb.com/title/tt0337761/","media":"DVD","rating":"****","status":"Completed","title":"Fillmore!"},
+{"date":"May 2024","link":"https://www.imdb.com/title/tt11280740/episodes/?season=1&ref_=tt_eps_sn_1","media":"Apple TV+","rating":"*****","status":"Completed","title":"Severance, Season 1"}
 ]
 }

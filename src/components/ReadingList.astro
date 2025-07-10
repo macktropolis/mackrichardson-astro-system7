@@ -23,8 +23,9 @@ const limitedReading = limit ? reading.slice(0, limit) : reading;
                 <th>Title</th>
                 <th>Author</th>
                 <th>Date</th>
+                <th>Status</th>
                 <th>Rating</th>
-            </tr>
+            </tr> 
             {limitedReading.map((item) => <Row item={item} />)}
         </table>
     </div>
